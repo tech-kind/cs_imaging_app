@@ -8,7 +8,7 @@
 
 - 必要な画像を読み込み、処理内容をコンボボックスから選択するだけで、処理後の結果画像を確認することができます。
 
-  ![sample1](images/cap1.jpg)
-  ![sample2](images/cap2.jpg)
+  ![sample1](images/cap1.JPG)
+  ![sample2](images/cap2.JPG)
 
   
