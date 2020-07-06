@@ -1,0 +1,6 @@
+packages/
+CsImagingApp/bin/
+CsImagingApp/obj/
+ImagingLib/bin/
+ImagingLib/obj/
+.vs/
